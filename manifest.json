@@ -1,0 +1,95 @@
+{
+  "files": {
+    "Frameworks/Cg.framework/Cg": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "ac72679d3d2a43a4b6e9069522f8ef83439e6eb5b43ddfb8eda2574c34e977d80a2a685bf9e5de6212753a4d12841000",
+      "size": 40936976
+    },
+    "cg.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "2d2717039597de0bf48814adee90a2b8acfd9dab29f37a64bf948fb55fcf9ca78fb05f9222273165e23c5ca2ab874d21",
+      "size": 8531264
+    },
+    "cgGL.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "bc8145c47d3ca6965ce5192e2ad7e6e72626dd8c3be96aa9307569361f30345b7b1124fb1d092c0addb3820b53a38a78",
+      "size": 359232
+    },
+    "resources/default/phase_10.mf": {
+      "size": 1799996
+    },
+    "resources/default/phase_11.mf": {
+      "size": 4110264
+    },
+    "resources/default/phase_12.mf": {
+      "size": 10831439
+    },
+    "resources/default/phase_13.mf": {
+      "size": 12654617
+    },
+    "resources/default/phase_14.mf": {
+      "size": 10279391
+    },
+    "resources/default/phase_3.5.mf": {
+      "size": 20698921
+    },
+    "resources/default/phase_3.mf": {
+      "size": 65222339
+    },
+    "resources/default/phase_4.mf": {
+      "size": 53299620
+    },
+    "resources/default/phase_5.5.mf": {
+      "size": 8038204
+    },
+    "resources/default/phase_5.mf": {
+      "size": 50161709
+    },
+    "resources/default/phase_6.mf": {
+      "size": 44578500
+    },
+    "resources/default/phase_7.mf": {
+      "size": 6283333
+    },
+    "resources/default/phase_8.mf": {
+      "size": 31862408
+    },
+    "resources/default/phase_9.mf": {
+      "size": 14167418
+    },
+    "tooniversal.bin": {
+      "sha384": "4b6721b1447faabdf0325bfed5208a77c16568c5c8a37b2db4ac242a77cb793e3267216d6e4dc81c7aa910970fffea96",
+      "size": 18044915
+    },
+    "tooniversal.exe": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "70b995b09445783b30b812498049f438270766262432d5dc83f4f28794dd24ccb4807fc26db95704efbdb7ec7f880a87",
+      "size": 24176640
+    },
+    "tooniversal_darwin": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "e700e5a9d1879baaca1c49b54a7b5e75f71d996ccf3e306066477a86dcd56a57402503699c891cf690ce60fbd18bb2ac",
+      "size": 34927456
+    }
+  },
+  "launcherVersions": {
+    "darwin": "1.0.0",
+    "linux2": "1.0.0",
+    "win32": "1.0.0"
+  },
+  "outdatedMessage": {
+    "link": "https://tooniversal.com",
+    "message": "Your Tooniversal launcher is out of date. Please redownload the latest launcher from our website!"
+  },
+  "removedFiles": []
+}
