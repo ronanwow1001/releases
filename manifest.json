@@ -34,7 +34,7 @@
       "size": 12654617
     },
     "resources/default/phase_14.mf": {
-      "size": 10279391
+      "size": 10279453
     },
     "resources/default/phase_3.5.mf": {
       "size": 20728669
@@ -49,7 +49,7 @@
       "size": 8038204
     },
     "resources/default/phase_5.mf": {
-      "size": 50161742
+      "size": 50171483
     },
     "resources/default/phase_6.mf": {
       "size": 44578500
@@ -64,8 +64,8 @@
       "size": 14167418
     },
     "tooniversal.bin": {
-      "sha384": "f7aca710d976e494a94c9e57041c12875a7231824c2400b0ef2336d36281296fc419f8108ed1ce4624524c171b8c37d7",
-      "size": 18045075
+      "sha384": "0bb216b5a57e57b1af1dd517559fe5301e25e4b47a6265cd5330af709a03a234222605631203284f7ba98514f28421c7",
+      "size": 18045667
     },
     "tooniversal.exe": {
       "distributions": [
