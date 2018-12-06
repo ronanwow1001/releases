@@ -71,8 +71,8 @@
       "distributions": [
         "win32"
       ],
-      "sha384": "70b995b09445783b30b812498049f438270766262432d5dc83f4f28794dd24ccb4807fc26db95704efbdb7ec7f880a87",
-      "size": 24176640
+      "sha384": "1a5e1c25c569f619164dadb966f477a28a71a1e8be8b252f19db47a6d3915ed11a862dc7f327078c0a8e2efccf5a52cf",
+      "size": 24183816
     },
     "tooniversal_darwin": {
       "distributions": [
